@@ -1,0 +1,33 @@
+_repo: The-Cornhill-Magazine-vol-XLII-no-251-new-series-May-1917_72225
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2023-11-25'
+identifiers:
+  gutenberg: '72225'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=inu.30000093202178&view=1up&seq=509
+pgterms:marc905: 20200416095948various
+pgterms:marc906: '1860'
+pgterms:marc907: GB
+production_note: hekula03 and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aLondon :$bSmith, Elder and Co., $c1860.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Periodicals'
+- !lcsh 'Short stories, English -- Periodicals'
+- !lcsh 'English literature -- Periodicals'
+- !lcc 'AP'
+- GITenberg
+title: The Cornhill Magazine (vol. XLII, no. 251 new series, May 1917)
+url: http://www.gutenberg.org/ebooks/72225
