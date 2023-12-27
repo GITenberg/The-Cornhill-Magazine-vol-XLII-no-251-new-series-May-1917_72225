@@ -1,5 +1,8 @@
 _repo: The-Cornhill-Magazine-vol-XLII-no-251-new-series-May-1917_72225
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72225-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72225#The-Cornhill-Magazine-vol-XLII-no-251-new-series-May-1917
 gutenberg_issued: '2023-11-25'
 identifiers:
   gutenberg: '72225'
